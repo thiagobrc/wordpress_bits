@@ -1,2 +1,2 @@
 # wordpress_bits
-Some Wordpress code for quick usage.
+Some Wordpress (and other PHP) code for quick usage.
